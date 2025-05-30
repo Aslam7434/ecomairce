@@ -21,9 +21,9 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 192, 192, 192),
+      backgroundColor: const Color.fromARGB(255, 39, 218, 250),
       appBar: AppBar(
-        backgroundColor: const Color.fromARGB(255, 192, 192, 192),
+        backgroundColor: const Color.fromARGB(255, 50, 166, 243),
         title: Center(
           child: Text(
             'ZOYOTO',
